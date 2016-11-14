@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.netease</groupId>
-  <artifactId>bims</artifactId>
+  <artifactId>eureka-server</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>bims</name>
+  <name>eureka-server</name>
   <description>bim server</description>
   
   <parent>
